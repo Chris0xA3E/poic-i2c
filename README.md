@@ -1,6 +1,6 @@
 # SSD1306 I2C Communication via PIOC on WCH Microcontroller
 
-This project demonstrates how to use **PIOC (Programmable IO Controller)** to implement **I2C communication** with an **SSD1306 OLED display** on a **WCH microcontroller** (e.g., CH32V series).
+This project demonstrates how to use **PIOC (Programmable IO Controller)** to implement **I2C communication** with an **SSD1306 OLED display** on a **WCH microcontroller** (e.g., CH32X series).
 
 It provides a minimal, low-level example of bypassing hardware I2C by leveraging PIOC to manually control SDA and SCL lines for communicating with an I2C device.
 
